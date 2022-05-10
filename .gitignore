@@ -30,4 +30,5 @@ target/
 
 # etc.
 tmp/
+test/
 README.template.adoc
