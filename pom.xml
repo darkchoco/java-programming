@@ -16,5 +16,7 @@
     <modules>
         <module>classic-computer-science-problems/small</module>
         <module>command-line-apps/filename-time-change</module>
+        <module>stream/stream</module>
+<!--        <module>template/template</module>-->
     </modules>
 </project>
