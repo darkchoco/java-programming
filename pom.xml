@@ -4,7 +4,7 @@
     <groupId>io.github.darkchoco.java</groupId>
     <artifactId>java-programming</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>Java Programming</name>
     <description>Java Programming with Data Structure, Algorithm, and various Computer Science Problems</description>
 

@@ -29,6 +29,7 @@ target/
 *.rar
 
 # etc.
-tmp/
-test/
+template/
+test_data/
+_src/
 README.template.adoc
